@@ -15,62 +15,7 @@ My primary interests include:
 - Software Architecture
 - System Integration
 - Cloud Technologies
-- Mobile Development
-
----
-
-## Technology Stack
-
-### Languages
-
-```text
-C# • Java • Python • JavaScript • TypeScript • SQL
-```
-
-### Backend
-
-```text
-ASP.NET Core • .NET • Entity Framework Core • REST APIs
-```
-
-### Frontend
-
-```text
-HTML • CSS • JavaScript • React
-```
-
-### Mobile
-
-```text
-Android (Java) • Flutter
-```
-
-### Databases
-
-```text
-SQL Server • MySQL • SQLite
-```
-
-### Development Tools
-
-```text
-Git • GitHub • Docker • Visual Studio • VS Code • Postman
-```
-
----
-
-## Featured Work
-
-| Project | Description |
-|---------|-------------|
-| AI Tender Analyzer | AI-powered document analysis and evaluation platform |
-| AI CV Analyzer | Resume analysis using AI technologies |
-| Real Estate Platform | Property management and digital real estate solutions |
-| Government Integrations | Secure integrations with government platforms and APIs |
-| Management Systems | School, Coffee Shop, Livestock, and Car Rental systems |
-| Mobile Applications | Native Android and Flutter applications |
-
----
+- Mobile and Web Development
 
 ## Current Focus
 
@@ -78,15 +23,6 @@ Git • GitHub • Docker • Visual Studio • VS Code • Postman
 - Designing scalable backend architectures
 - Learning cloud-native technologies
 - Exploring Large Language Models (LLMs)
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=7ussein97&show_icons=false&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ussein97&layout=compact&hide_border=true" />
-</p>
 
 ---
 
@@ -99,5 +35,5 @@ Git • GitHub • Docker • Visual Studio • VS Code • Postman
 ## Connect
 
 - GitHub: https://github.com/7ussein97
-- LinkedIn: https://www.linkedin.com/in/hussein-alghafri/
+- LinkedIn: https://www.linkedin.com/in/hussein-alghafri-985348225
 ````
