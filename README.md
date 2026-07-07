@@ -17,6 +17,13 @@ My primary interests include:
 - Cloud Technologies
 - Mobile and Web Development
 
+**Management Systems** 
+Experience building different business management solutions including:
+- School Management Systems
+- Coffee Shop Management Systems
+- Car Rental Platforms
+- Livestock Management Systems ans etc...
+
 ## Current Focus
 
 - Building AI-powered software solutions
