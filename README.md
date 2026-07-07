@@ -1,4 +1,3 @@
-````markdown
 # Hussein AlGhafri
 
 > Software Development Engineer focused on building scalable backend systems, AI-powered applications, and modern software solutions.
